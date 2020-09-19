@@ -1,0 +1,8 @@
+/site/themes/*
+!/themes/.gitkeep
+
+/site/public/*
+!/public/.gitkeep
+
+/site/resources/*
+!/resources/.gitkeep
